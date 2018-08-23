@@ -1,4 +1,5 @@
 # Data
 
 [Our World in Data](https://ourworldindata.org/) \
-[Data Maps](https://github.com/vgutta/Data.git)
+[Data Maps](http://datamaps.github.io) \
+[Fivethirtyeight](https://github.com/fivethirtyeight/data)
